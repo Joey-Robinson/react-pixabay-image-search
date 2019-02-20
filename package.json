@@ -1,5 +1,5 @@
 {
-  "name": "pixabay-search",
+  "name": "pixabay-image-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
